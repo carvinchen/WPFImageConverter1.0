@@ -1,0 +1,2 @@
+F:\Install\Lernen\OOP\CSProjects\WPFImageConvertor\WPFImageConvertor\WPFImageConvertor\bin\Debug\WPFImageConvertor.exe.config
+F:\Install\Lernen\OOP\CSProjects\WPFImageConverterProject\WPFImageConvertor\WPFImageConvertor\bin\Debug\WPFImageConvertor.exe.config
